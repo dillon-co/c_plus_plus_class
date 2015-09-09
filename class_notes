@@ -1,0 +1,26 @@
+routene= detailed set of instructions/functions that perform a specific action so you don't have to repeat yourself. Keep the code dry!
+
+don't make assumptions, Think very carfully "What am I doing?"
+
+every program has a main function (int main())
+
+the statements are inclosed in braces
+
+every program that uses standard services requires the directive "using namespace std;"
+
+
+Bad habit is to let a compiler find all your compiling errors.
+
+SOFTWARE_DEVELOPMENT_PROCESS{
+___________________________________
+  1-Understand the problem
+
+  2-develope and describe an algorithim(sudo code)
+
+  3-test algorithim  with simple inputs
+
+  4-translate into C++
+
+  5-compile and test your program
+___________________________________
+}
